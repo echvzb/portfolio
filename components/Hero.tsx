@@ -9,7 +9,7 @@ export const Hero: FC = () => (
         width={500}
         height={500}
         alt="Eduardo Chavez photo"
-        src="/img/lalo.jpg"
+        src="/img/eduardo_hero.jpg"
         className="rounded-lg shadow-sm"
       />
       <div className="pt-5 lg:pt-0 text-center lg:text-left">
